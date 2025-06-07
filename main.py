@@ -17,5 +17,10 @@ def to_goodbye(name):
 def to_show():
     pass
 
+
 def main_changes():
     pass
+
+def new_functions():
+    print(3)
+
