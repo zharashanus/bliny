@@ -14,3 +14,5 @@ def to_goodbye(name):
     print("GOODBYE")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+def to_show():
+    pass
