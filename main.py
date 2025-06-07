@@ -16,3 +16,6 @@ def to_goodbye(name):
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 def to_show():
     pass
+
+def main_changes():
+    pass
